@@ -12,9 +12,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
+      "package": "com.auth.app",
       "supportsTablet": true
     },
     "android": {
+      "package": "com.auth.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
